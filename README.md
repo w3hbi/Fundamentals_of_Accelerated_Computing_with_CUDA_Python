@@ -1,6 +1,6 @@
 # Fundamentals of Accelerated Computing with CUDA Python
 
-![NVIDIA DLI Logo](https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/dli/teaser/hero/dli-logo-hero.jpg)
+![NVIDIA DLI Logo](https://developer-blogs.nvidia.com/wp-content/uploads/2020/03/DLI_Feature_new.png)
 
 Welcome to the repository for the "Fundamentals of Accelerated Computing with CUDA Python" course by NVIDIA Deep Learning Institute (DLI).
 
